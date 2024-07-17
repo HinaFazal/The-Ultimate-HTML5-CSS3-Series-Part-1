@@ -8,10 +8,10 @@ start course
 
 push code
 1. git add .
-2. git commit -m "message" 
+2.
 3. git push
-
-
+e" 
+ git commit -m "messag
 1. create a folder with section name
 2. create .html file
 3. complete the video code and push code 
