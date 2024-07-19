@@ -1,0 +1,15 @@
+#product{
+    background-color: red;
+    color: white;
+}
+.first{
+    background-color: green;
+    color: white;
+}
+a[href="https://google.com"]{
+    color: black;
+
+}
+body{
+    margin: 10px;
+}
